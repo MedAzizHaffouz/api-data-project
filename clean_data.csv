@@ -1,2 +1,7 @@
-time,interval,temperature,windspeed,winddirection,is_day,weathercode
-2026-09-11T21:15,900,28.0,12.2,56,0,2
+Metric,Value
+Temperature (°C),28.0
+Apparent Temp (°C),32.2
+Humidity (%),78.0
+Precipitation (mm),0.0
+Cloud Cover (%),61.0
+Wind Speed (km/h),11.9
